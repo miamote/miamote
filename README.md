@@ -2,7 +2,7 @@
 - 😄 Pronouns: She/Her/Hers
 - 🎓 I graduated from Iowa State University with a Bachelor's in Computer Science in May 2024
 - 👀 I’m interested in Full Stack Web Development / Java Development / Information Technology
-- 🌱 I’m currently learning Excel, and strengthening my skills in web development.
+- 🌱 I’m currently learning Excel, and strengthening my web development skills, such as Javascript and React.
 - ⚡ LinkedIn: https://www.linkedin.com/in/mia-mote/
 <!--- 💫 I am working on creating a full stack web application to do... something!
 --->
